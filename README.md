@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎮 Gosto de jogos de ps5<br>🖥️ Iniciante na area de T.I<br>🎵 Gosto de ouvir musicas</p>
+<p align="left">🎮 Gosto de jogar jogos de ps5<br>🖥️ Iniciante na area de T.I<br>🎵 Gosto de ouvir musicas</p>
 
 ###
 
